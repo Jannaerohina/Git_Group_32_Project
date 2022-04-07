@@ -1,11 +1,9 @@
 public class SetUp {
 
     // Setting up project for everyone
+    public static void main(String[] args) {
+        System.out.println("Rauf made some changes");
+    }
 
-    // making some changes here
-
-    // made another change
-
-    // anndddd trying to figure this out change
 
 }
