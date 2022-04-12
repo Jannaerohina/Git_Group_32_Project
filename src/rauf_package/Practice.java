@@ -7,4 +7,15 @@ public class Practice {
 
 
     }
+
+
+    /**This method accepts String type parameter
+     * @param word will be reversed inside the method
+     * @return will be reversed version of word
+     */
+    public static String reverse(String word){
+
+
+        return word;
+    }
 }
