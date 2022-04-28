@@ -33,13 +33,14 @@ public class Task {
                 sum += city;
             }
             System.out.println("Day " + day + " " + Arrays.toString(inhabitants));
-            if (sum == 0) {
-                System.out.println("---- EXTINCT ----");
-                break;
-            }
+//            if (sum == 0) {
+//
+//                break;
+//            }
 
 
         } while (sum != 0);
+        System.out.println("---- EXTINCT ----");
     }
 }
 
